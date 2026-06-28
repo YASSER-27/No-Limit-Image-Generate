@@ -1,6 +1,8 @@
 ## No-Limit-Image-Generate
 An infinite, completely free image generation app for Windows.
 
+[Download Image-Generate](https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/0.0.1/image.Generate.exe)
+
 #### Key Features:
 
 - No Account Required: Start generating images instantly—no sign-ups or logins needed.
