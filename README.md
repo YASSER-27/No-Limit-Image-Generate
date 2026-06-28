@@ -15,6 +15,9 @@ An infinite, completely free image generation app for Windows.
 - Infinite Generation: No daily limits, credits, or restrictions on your creativity.
 
 - Completely Free: Free to use, straight out of the box.
+ 
+- No Watermark
+
 
 > Why is the source code private? (Important Note)
 "To be transparent, this tool is powered by a custom reverse-engineered pipeline that bypasses current generation limits. I am only sharing the compiled program (.exe) and keeping the source code private to protect this specific method from being patched or altered.
