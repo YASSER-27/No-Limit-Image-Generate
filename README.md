@@ -28,6 +28,4 @@ An infinite, completely free image generation app for Windows.
 | ![gallery](img_1782685044010.jpg) | ![gallery](img_1782685013647.jpg) |
 | ![gallery](img_1782685012736.jpg) | ![gallery](img_1782684995735.jpg) |
 
-## Installation
 
-<img width="800" height="450" alt="installation" src="https://github.com/user-attachments/assets/e70768d5-05fd-471f-95ed-68d5f2f52f04" />
