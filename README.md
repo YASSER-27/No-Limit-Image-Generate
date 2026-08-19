@@ -1,4 +1,7 @@
 ## No-Limit-Image-Generate
+
+>Today, 19/08/2026, image.Generate.exe has stopped. The site requires a sign-in to generate images. I will fix that soon.
+
 An infinite, completely free image generation app for Windows.
 
 [Download Image-Generate](https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/0.0.1/image.Generate.exe)
