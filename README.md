@@ -1,15 +1,19 @@
-## No-Limit-Image-Generate
+# No-Limit-Image-Generate
 
->Today, 19/08/2026, image.Generate.exe has stopped. The site requires a sign-in to generate images. I will fix that soon.
+<div align="left">
 
-An infinite, completely free image generation app for Windows.
+<a href="https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/1.5.1/image.Generate.1.5.1.exe">
+    <img src="https://img.shields.io/badge/Download-EXE_v1.5.0-pink?style=for-the-badge&logo=windows" alt="Download Windows">
+</a>
 
-[Download Image-Generate](https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/0.0.1/image.Generate.exe)
+| | |
+|:---:|:---:|
+| <img width="700" alt="img_1" src="https://github.com/user-attachments/assets/e17fa7aa-b041-4445-8fa4-4d025d9c888d" /> | <img width="600" alt="img_2" src="https://github.com/user-attachments/assets/f3cac5bd-0aeb-4395-bf8f-87eabeb829c7" /> |
 
-<img width="800" height="450" alt="demo_review" src="https://github.com/user-attachments/assets/4897e9cc-ce5c-49fc-832e-6bc03946258e" />
+</div>
 
 
-#### Key Features:
+#### Features:
 
 - No Account Required: Start generating images instantly—no sign-ups or logins needed.
 
@@ -21,14 +25,12 @@ An infinite, completely free image generation app for Windows.
  
 - No Watermark
 
+> This [main.py](https://github.com/YASSER-27/No-Limit-Image-Generate/blob/main/main.py) is old and uses the freegen site, but the new version uses a different site because freegen has human verification and too many annoying ads.
+ 
+> NEW : Today, 04/09/2026, image.Generate.exe is working 100%. No problems, no sign-in needed, free, and no limits.
 
-> Image-Generate.exe work on 64bit not work on 32bit 
-
-### Image
-
-| Image | Image |
-|---|---|
-| ![gallery](img_1782685044010.jpg) | ![gallery](img_1782685013647.jpg) |
-| ![gallery](img_1782685012736.jpg) | ![gallery](img_1782684995735.jpg) |
-
-
+<div align="center">
+<a href="https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/1.5.1/image.Generate.1.5.1.exe">
+    <img src="https://img.shields.io/badge/Download-EXE_v1.5.0-pink?style=for-the-badge&logo=windows" alt="Download Windows">
+</a>
+</div>
