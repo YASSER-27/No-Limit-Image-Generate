@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['freegen_app.py'],
     pathex=[],
     binaries=[],
     datas=[('icon.ico', '.')],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='image Generate',
+    name='image Generate V 1.5.1',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
