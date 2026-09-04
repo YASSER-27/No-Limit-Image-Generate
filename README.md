@@ -25,10 +25,6 @@
  
 - No Watermark
 
-> This [main.py](https://github.com/YASSER-27/No-Limit-Image-Generate/blob/main/main.py) is old and uses the freegen site, but the new version uses a different site because freegen has human verification and too many annoying ads.
- 
-> NEW : Today, 04/09/2026, image.Generate.exe is working 100%. No problems, no sign-in needed, free, and no limits.
-
 <div align="center">
 <a href="https://github.com/YASSER-27/No-Limit-Image-Generate/releases/download/1.5.1/image.Generate.1.5.1.exe">
     <img src="https://img.shields.io/badge/Download-EXE_v1.5.0-pink?style=for-the-badge&logo=windows" alt="Download Windows">
