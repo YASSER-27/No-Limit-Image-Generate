@@ -1,3 +1,5 @@
+7/10/2026 image.Generate.exe has stopped
+
 <div align="center">
 
   <img src="icon.ico" width="170" alt="Edit Img Tool Logo">
